@@ -36,7 +36,7 @@ function App() {
       <section id="about">
         <h2>About Me</h2>
         <p>
-          Hi, I’m <strong>Raj Konde</strong>, a Front-End Developer and B.Tech CSE student.
+          Hi, I’m <strong>Sumeet Mapari</strong>, a Front-End Developer and B.Tech CSE student.
           I am passionate about <strong>Web Development, IoT, and AI</strong>.
         </p>
         <p>
